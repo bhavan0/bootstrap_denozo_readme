@@ -36,8 +36,7 @@ install.packages('base64enc')
 Need to host with Docker support
 ```
 ## Screenshots of POC
-```
-Dashboard screen - [a relative link](screen1.png)
-OCR screen - [a relative link](screen2.png)
+Dashboard screen - [a relative link](screen1.png) <br/>
+OCR screen - [a relative link](screen2.png) <br/>
 Store Data screen - [a relative link](screen3.png)
-```
+
