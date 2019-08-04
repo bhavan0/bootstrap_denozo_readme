@@ -17,3 +17,16 @@ https://github.com/bhavan0/bootstrap_dunzo_service
 dotnet build -c Release
 dotnet run
 ```
+## OCR
+https://github.com/bhavan0/bootstrap_dunzo_ocr
+
+**Required packages**
+```
+install.packages('plumber')
+install.packages('tesseract')
+install.packages('base64enc')
+```
+**Build instructions**
+```
+Need to host with Docker support
+```
