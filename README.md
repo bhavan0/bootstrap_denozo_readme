@@ -1,5 +1,10 @@
 # bootstrap_denozo_readme
 
+## We have followed 3-tire Architecure :
+```
+Front End (Angular) - OCR (R) - BackEnd to save data (.net core)
+```
+
 ## Frontend:
 https://github.com/bhavan0/bootstrap_hackathon_client
 
